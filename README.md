@@ -1,0 +1,2 @@
+# visual-representation-of-flood-fill-algorithm
+This here git repository contains a visual representation of the flood-fill algorithm, whose sole role is to showcase how the algorithm behaves and works, this feat being achieved by portraying its functionality with the aid of a graphical interface implemented with the aid of Java’s Swing module. Further functionalities such as being able to control the steps of the algorithm, and thus stop every time you wish to gaze more profoundly at the results of one of the steps, will be added in the near future.
